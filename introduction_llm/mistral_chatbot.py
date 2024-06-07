@@ -1,3 +1,9 @@
+"""
+Chatbot for the Mistral.
+
+You need a valid Mistral API key to run this script.
+"""
+
 import os
 
 from mistralai.client import MistralClient
